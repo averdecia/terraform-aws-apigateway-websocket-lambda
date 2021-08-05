@@ -2,8 +2,8 @@
 
 The repo creates a demo example of Terraform y AWS. The goal is to create a websocket comunication between a frontend an a backend. The frontend will hold the web socket only to receive notifications from any component that executes the notification API.
 
-The comunication diagram is the follow:
-![alt text](./docs/diagram.jpg?raw=true)
+The communication diagram is the follow:
+![alt text](./docs/diagram.png?raw=true "Communication Diagram")
 
 Once you run terraform the output will show the following variables:
 sqs_url = "The url to the Amazon Simple Queue that you just created" // information only
