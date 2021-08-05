@@ -1,0 +1,11 @@
+{
+    "name": "ws_smt_notifications",
+    "description": "Lambda services for websocket",
+    "devDependencies": {
+        "lambda-local": "^2.0.0"
+    },
+    "dependencies": {
+        "@aws-sdk/client-apigatewaymanagementapi": "^3.24.0",
+        "@aws-sdk/client-dynamodb": "^3.24.0"
+    }
+}

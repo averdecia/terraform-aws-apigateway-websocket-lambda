@@ -1,0 +1,35 @@
+{
+    "headers": {
+      "Host": "dao5vsdz96.execute-api.us-west-2.amazonaws.com",
+      "x-api-key": "",
+      "X-Forwarded-For": "",
+      "x-restapi": ""
+    },
+    "multiValueHeaders": {
+      "Host": [ "dao5vsdz96.execute-api.us-west-2.amazonaws.com" ],
+      "x-api-key": [ "" ],
+      "X-Forwarded-For": [ "" ],
+      "x-restapi": [ "" ]
+    },
+    "requestContext": {
+      "routeKey": "$disconnect",
+      "disconnectStatusCode": -1,
+      "eventType": "DISCONNECT",
+      "extendedRequestId": "CLNZBE_3vHcFfmQ=",
+      "requestTime": "08/Jul/2021:23:51:08 +0000",
+      "messageDirection": "IN",
+      "disconnectReason": "",
+      "stage": "prd",
+      "connectedAt": 1625788256699,
+      "requestTimeEpoch": 1625788268779,
+      "identity": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+        "sourceIp": "187.190.4.159"
+      },
+      "requestId": "CLNZBE_3vHcFfmQ=",
+      "domainName": "dao5vsdz96.execute-api.us-west-2.amazonaws.com",
+      "connectionId": "CLNXIc8vPHcCEJw=",
+      "apiId": "dao5vsdz96"
+    },
+    "isBase64Encoded": false
+}

@@ -1,0 +1,23 @@
+{
+    "requestContext": {
+        "routeKey": "sendMessage",
+        "messageId": "CHuPMdprvHcCGJg=",
+        "eventType": "MESSAGE",
+        "extendedRequestId": "CHuPMHqaPHcFgjA=",
+        "requestTime": "07/Jul/2021:22:27:45 +0000",
+        "messageDirection": "IN",
+        "stage": "prd",
+        "connectedAt": 1625696857859,
+        "requestTimeEpoch": 1625696865022,
+        "identity": {
+            "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+            "sourceIp": "187.190.4.159"
+        },
+        "requestId": "CHuPMHqaPHcFgjA=",
+        "domainName": "dao5vsdz96.execute-api.us-west-2.amazonaws.com",
+        "connectionId": "CHuOEdgtvHcCGAg=",
+        "apiId": "dao5vsdz96"
+    },
+    "body": "{\"action\":\"sendMessage\",\"payload\":{\"phone\":\"5582248875\"}}",
+    "isBase64Encoded": false
+}
